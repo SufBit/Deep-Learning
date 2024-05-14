@@ -1,1 +1,1 @@
-##Applied CNN, DNN and MLP to fashion_mnist dataset
+# Applied CNN, DNN and MLP to fashion_mnist dataset
